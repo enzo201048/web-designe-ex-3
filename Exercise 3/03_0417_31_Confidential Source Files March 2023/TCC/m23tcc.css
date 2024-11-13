@@ -1,0 +1,14 @@
+/*Enzo Pignanelli UY027 0017*/
+body{
+	background-color: #6d040a;
+}
+h1, h2, h3, p{
+	font-family: Domino,"Domino Regular", serif;
+	color: #ffff00;
+}
+table{
+	margin-left: auto;
+	maergin-right: auto ;
+	border-collapse: collapse;
+	border-width: 0px;
+}
